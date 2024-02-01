@@ -1,40 +1,30 @@
-# Title (replace with your title)
+# Regex Tutorial Email Matching
 
-Introductory paragraph (replace this with your text)
+## Licensing:
+[![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
 
-## Summary
+## Table of Contents 
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+## Description:
+This is a GitHub gist for a regex tutorial for matching email.
 
-## Table of Contents
+## Installation:
 
-- [Anchors](#anchors)
-- [Quantifiers](#quantifiers)
-- [Grouping Constructs](#grouping-constructs)
-- [Bracket Expressions](#bracket-expressions)
-- [Character Classes](#character-classes)
-- [The OR Operator](#the-or-operator)
-- [Flags](#flags)
-- [Character Escapes](#character-escapes)
+You can access and see the tutorial here: [RegexTutorial](/Develop/RegexTutorial.md)
 
-## Regex Components
+## License:
+MIT
 
-### Anchors
+## Tests:
+None
 
-### Quantifiers
-
-### Grouping Constructs
-
-### Bracket Expressions
-
-### Character Classes
-
-### The OR Operator
-
-### Flags
-
-### Character Escapes
-
-## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+## Questions:
+- Github: [Ricochet227](https://github.com/Ricochet227)
+- Email: skyler7crawford@gmail.com 
